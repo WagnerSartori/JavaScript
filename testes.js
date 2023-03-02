@@ -40,3 +40,9 @@ if (forma === "quadrado") {
 }
 
 console.log(area);
+
+const nome = "Alura";
+
+for (let i = 0; i < nome.length; i++) {
+    console.log(nome[i]);
+}
