@@ -1,14 +1,12 @@
-const clientes = require("./clientes.json");
+const modalidades = require("./ttModalidade.json");
 
 function encontrar(lista, chave, valor) {
     //O método Find nos retorna o item conforme a function que passamos para ele
     //O método includes do array tenta localizar o valor dentro de todas as posições do array de telefones e vai funcionar tb para o caso do nome.
     //SOMENTE SE DEVE UTILIZAR O METODO INCLUDES SE VOCE TIVER UM ARRAY DENTRO DO SEU OBJETO
-    return lista.find((item => item[chave].includes(valor)));
+    return lista.find((item => item[chave] === valor));
 }
 
-const encontrado = encontrar(clientes, "nome", "Kirby");
-
-const encontrado2 = encontrar(clientes, "telefone", "1918820860");
+const encontrado = encontrar(modalidades.ttModalidade, "cd-modalidade", 5);
 
 console.log(encontrado);

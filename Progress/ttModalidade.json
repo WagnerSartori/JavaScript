@@ -1,0 +1,100 @@
+{
+    "ttModalidade": [
+        {
+            "cd-modalidade": 1,
+            "ds-modalidade": "TESTE 2"
+        },
+        {
+            "cd-modalidade": 2,
+            "ds-modalidade": "FAM NAO-REGUL - C\/ COPART 02"
+        },
+        {
+            "cd-modalidade": 4,
+            "ds-modalidade": "FAM REGUL 2000 - C\/ COPART 04"
+        },
+        {
+            "cd-modalidade": 5,
+            "ds-modalidade": "FAM REGUL 2000 - C\/ COPART 05"
+        },
+        {
+            "cd-modalidade": 7,
+            "ds-modalidade": "FAM REGUL - S\/ COPART"
+        },
+        {
+            "cd-modalidade": 8,
+            "ds-modalidade": "FAM REGUL - C\/ COPART 05"
+        },
+        {
+            "cd-modalidade": 9,
+            "ds-modalidade": "FAM REGUL - C\/ COPART 07"
+        },
+        {
+            "cd-modalidade": 10,
+            "ds-modalidade": "FAM REGUL - C\/ COPART 08"
+        },
+        {
+            "cd-modalidade": 11,
+            "ds-modalidade": "FAM REGUL - C\/ COPART 09"
+        },
+        {
+            "cd-modalidade": 12,
+            "ds-modalidade": "FAM ADAPT (NEG P\/ CONTRATO)"
+        },
+        {
+            "cd-modalidade": 13,
+            "ds-modalidade": "FAM REGUL - C\/ COPART 10"
+        },
+        {
+            "cd-modalidade": 21,
+            "ds-modalidade": "EMP NAO-REGUL - S\/ COPART"
+        },
+        {
+            "cd-modalidade": 22,
+            "ds-modalidade": "EMP NAO-REGUL - C\/ COPART"
+        },
+        {
+            "cd-modalidade": 23,
+            "ds-modalidade": "EMP REGUL - S\/ COPART"
+        },
+        {
+            "cd-modalidade": 24,
+            "ds-modalidade": "EMP ADAPT  (NEG P\/ CONTRATO)"
+        },
+        {
+            "cd-modalidade": 25,
+            "ds-modalidade": "EMP REGUL - C\/ COPART"
+        },
+        {
+            "cd-modalidade": 31,
+            "ds-modalidade": "COLETIVO NAO-REGUL - C\/ COPART"
+        },
+        {
+            "cd-modalidade": 32,
+            "ds-modalidade": "COLETIVO REGUL - C\/ COPART"
+        },
+        {
+            "cd-modalidade": 41,
+            "ds-modalidade": "SRP"
+        },
+        {
+            "cd-modalidade": 51,
+            "ds-modalidade": "SAUDE OCUPACIONAL"
+        },
+        {
+            "cd-modalidade": 61,
+            "ds-modalidade": "PEA"
+        },
+        {
+            "cd-modalidade": 71,
+            "ds-modalidade": "OUTROS PLANOS"
+        },
+        {
+            "cd-modalidade": 90,
+            "ds-modalidade": "INTERCAMBIO"
+        },
+        {
+            "cd-modalidade": 99,
+            "ds-modalidade": "CAMPANHAS"
+        }
+    ]
+}
